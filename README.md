@@ -1,6 +1,6 @@
 #練習用
 
-此專案由[徐侑翔]()製作
+此專案由[徐侑翔](https://github.com/randenworld)製作
 
 ##第二集主題
 
